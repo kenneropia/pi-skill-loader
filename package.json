@@ -1,0 +1,21 @@
+{
+  "name": "@kenneropia/pi-skill-loader",
+  "version": "1.0.0",
+  "description": "PI skill-loader extension for discovering and loading local skills on demand.",
+  "type": "module",
+  "license": "MIT",
+  "files": [
+    "index.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "pi",
+    "extension",
+    "skills",
+    "loader"
+  ],
+  "exports": {
+    ".": "./index.ts"
+  }
+}
